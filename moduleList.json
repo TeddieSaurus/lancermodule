@@ -1,0 +1,256 @@
+{
+  "activeModules": [
+    {
+      "id": "advanced-macros",
+      "title": "Advanced Macros",
+      "version": ""
+    },
+    {
+      "id": "adventure-log",
+      "title": "Adventure Log",
+      "version": ""
+    },
+    {
+      "id": "augmented-initiative",
+      "title": "Augmented Initiative",
+      "version": ""
+    },
+    {
+      "id": "barbrawl",
+      "title": "Bar Brawl",
+      "version": ""
+    },
+    {
+      "id": "better-text-drawings",
+      "title": "Better Text Drawings",
+      "version": ""
+    },
+    {
+      "id": "chat-images",
+      "title": "Chat Images",
+      "version": ""
+    },
+    {
+      "id": "chat-portrait",
+      "title": "Chat Portrait",
+      "version": ""
+    },
+    {
+      "id": "_CodeMirror",
+      "title": "CodeMirror",
+      "version": "fvtt4"
+    },
+    {
+      "id": "combatbooster",
+      "title": "Combat Booster",
+      "version": ""
+    },
+    {
+      "id": "combat-utility-belt",
+      "title": "Combat Utility Belt",
+      "version": ""
+    },
+    {
+      "id": "custom-fonts",
+      "title": "Custom Fonts",
+      "version": ""
+    },
+    {
+      "id": "cycle-token-stack",
+      "title": "Cycle Token Stack",
+      "version": ""
+    },
+    {
+      "id": "df-curvy-walls",
+      "title": "DF Curvy Walls",
+      "version": ""
+    },
+    {
+      "id": "dice-calculator",
+      "title": "Dice Tray",
+      "version": ""
+    },
+    {
+      "id": "drag-ruler",
+      "title": "Drag Ruler",
+      "version": ""
+    },
+    {
+      "id": "easy-target",
+      "title": "Easy Target",
+      "version": ""
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "version": ""
+    },
+    {
+      "id": "gm-screen",
+      "title": "GM Screen",
+      "version": ""
+    },
+    {
+      "id": "hex-size-support",
+      "title": "Hex Token Size Support",
+      "version": ""
+    },
+    {
+      "id": "ignore-vision",
+      "title": "Ignore Vision",
+      "version": ""
+    },
+    {
+      "id": "animated-spell-effects",
+      "title": "Jack Kerouac's Animated Spell Effects",
+      "version": ""
+    },
+    {
+      "id": "animated-spell-effects-cartoon",
+      "title": "Jack Kerouac's Animated Spell Effects: Cartoon",
+      "version": ""
+    },
+    {
+      "id": "JB2A_DnD5e",
+      "title": "JB2A - Jules and Ben's Animated Assets - Free Content",
+      "version": ""
+    },
+    {
+      "id": "lancer-clocks",
+      "title": "Lancer Clocks",
+      "version": ""
+    },
+    {
+      "id": "lancer-speed-provider",
+      "title": "Lancer Speed Provider",
+      "version": ""
+    },
+    {
+      "id": "lancer-weapon-fx",
+      "title": "Lancer Weapon FX",
+      "version": ""
+    },
+    {
+      "id": "lessfog",
+      "title": "Less Fog",
+      "version": ""
+    },
+    {
+      "id": "colorsettings",
+      "title": "lib - Color Settings",
+      "version": ""
+    },
+    {
+      "id": "lib-df-buttons",
+      "title": "Library: DF Module Buttons",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": "1"
+    },
+    {
+      "id": "_mathjs",
+      "title": "Math.js",
+      "version": "vtt2"
+    },
+    {
+      "id": "monks-hotbar-expansion",
+      "title": "Monk's Hotbar Expansion",
+      "version": ""
+    },
+    {
+      "id": "monks-scene-navigation",
+      "title": "Monk's Scene Navigation",
+      "version": ""
+    },
+    {
+      "id": "narrator-tools",
+      "title": "Narrator Tools",
+      "version": ""
+    },
+    {
+      "id": "perfect-vision",
+      "title": "Perfect Vision",
+      "version": ""
+    },
+    {
+      "id": "permission_viewer",
+      "title": "Permission Viewer",
+      "version": ""
+    },
+    {
+      "id": "pointer",
+      "title": "PnP - Pointer and Pings!",
+      "version": ""
+    },
+    {
+      "id": "quick-insert",
+      "title": "Quick Insert - Search Widget",
+      "version": ""
+    },
+    {
+      "id": "resource-icons",
+      "title": "Resource Icons",
+      "version": ""
+    },
+    {
+      "id": "sequencer",
+      "title": "Sequencer",
+      "version": ""
+    },
+    {
+      "id": "smarttarget",
+      "title": "Smart Target",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "_sortablejs",
+      "title": "SortableJS",
+      "version": "fvtt1"
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud",
+      "title": "Token Action HUD",
+      "version": ""
+    },
+    {
+      "id": "vtta-tokenizer",
+      "title": "Tokenizer",
+      "version": ""
+    },
+    {
+      "id": "tokenmagic",
+      "title": "Token Magic FX",
+      "version": ""
+    },
+    {
+      "id": "token-tooltip-alt",
+      "title": "Token Tooltip Alt",
+      "version": ""
+    }
+  ],
+  "inactiveModules": [
+    {
+      "id": "acelib",
+      "title": "Ace Library",
+      "version": ""
+    },
+    {
+      "id": "lancer-initiative",
+      "title": "Lancer Initiative",
+      "version": ""
+    }
+  ]
+}
